@@ -8,6 +8,7 @@ public class AndDetector extends Detector {
 		
 		this.d1 = d1;
 		this.d2 = d2;
+this.d3;
 	}
 	
 	public Fragment[] filter(Fragment[] f){		
